@@ -31,6 +31,7 @@ mall
 ├── mall-search -- 基于Elasticsearch的商品搜索系统服务
 ├── mall-portal -- 移动端商城系统服务
 └── mall-demo -- 微服务远程调用测试服务
+
 ```
 
 ## 项目文档
